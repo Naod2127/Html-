@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+      <title>Task 3</title>
+</head>
+<body>
+  <h1>Image,link & table</h1>
+  <a href="https://m.facebook.com"><img src="https://www.facebook.com/images/fb_icon_325x325.png" width="100"></a>
+  <p><a href="www.google.com">This word</a> is a link to another site</p>
+  <ul>
+        <li>Item 1</li>
+        <li>Item 2</li>
+  </ul> 
+  <table border="solid" border="1">
+     <tr><th>Head 01</th><th>Head 02</th></tr>
+     <tr><th>Item 1</th><th>Item 2</th></tr>
+  </table>  
+</body>
+</html>
